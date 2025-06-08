@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# MacOS
+.DS_Store
+
+# Video files (optional, depending on size)
+*.mp4
+*.mov
+*.avi
+
+# Exported timelines (optional)
+*.otio
